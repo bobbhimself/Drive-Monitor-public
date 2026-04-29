@@ -1,0 +1,66 @@
+# Built output
+*.iml
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle
+.gradle
+.gradle-user-home/
+gradle.properties.local
+
+# Local configuration — contains SDK path, do not commit
+local.properties
+
+# Android Studio / IntelliJ — per-machine state, do not commit
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/appInsightsSettings.xml
+
+# Kotlin compiler cache
+.kotlin/
+
+# AI agent working directories
+.claude/
+.superpowers/
+CLAUDE.md
+
+# Log files
+*.log
+firebase-debug.log
+
+# Android packaged outputs / diagnostics
+*.apk
+*.aab
+*.ap_
+*.hprof
+
+# Local signing material
+*.jks
+*.keystore
+
+# macOS metadata
+.DS_Store
+
+# Windows metadata
+Thumbs.db
+Desktop.ini
+
+# Public-repo additions
+/.idea/
+*.code-workspace
+docs/TODO.md
+keystore.properties
+signing.properties
+*.env
+.env*
+.vscode/
+/build/
+/app/build/
