@@ -4,6 +4,20 @@ An Android app that monitors vehicle motion and alerts you to hard braking, acce
 
 [![Release APK](https://github.com/bobbhimself/Drive-Monitor-public/actions/workflows/release.yml/badge.svg)](https://github.com/bobbhimself/Drive-Monitor-public/actions/workflows/release.yml)
 
+## Screenshots
+
+*Loading screen*
+
+![Loading screen](docs/screenshot_loading.jpg)
+
+*Main monitoring screen*
+
+![Main monitoring screen](docs/screenshot_main.jpg)
+
+*Log screen*
+
+![Log screen](docs/screenshot_log.jpg)
+
 ## Install
 
 Drive Monitor is distributed as an APK on the [GitHub Releases page](https://github.com/bobbhimself/Drive-Monitor-public/releases/latest). To install on a phone running Android 10 or newer:
