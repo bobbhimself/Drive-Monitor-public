@@ -133,4 +133,4 @@ To cut a release:
 
 ## License
 
-This project is licensed under the GNU General Public License v3.0. See [LICENSE](LICENSE) for the full text.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for the full text.
