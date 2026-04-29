@@ -6,24 +6,23 @@ An Android app that monitors vehicle motion and alerts you to hard braking, acce
 
 ## Screenshots
 
-*Loading screen*
-
-![Loading screen](docs/screenshot_loading.jpg)
-
-*Main monitoring screen*
-
-![Main monitoring screen](docs/screenshot_main.jpg)
-
-*Log screen*
-
-![Log screen](docs/screenshot_log.jpg)
+<p align="center">
+  <img src="docs/screenshot_loading.jpg" alt="Loading screen" width="220">
+  <img src="docs/screenshot_main.jpg" alt="Main monitoring screen" width="220">
+  <img src="docs/screenshot_log.jpg" alt="Log screen" width="220">
+</p>
+<p align="center">
+  <em>Loading screen</em> |
+  <em>Main monitoring screen</em> |
+  <em>Log screen</em>
+</p>
 
 ## Install
 
 Drive Monitor is distributed as an APK on the [GitHub Releases page](https://github.com/bobbhimself/Drive-Monitor-public/releases/latest). To install on a phone running Android 10 or newer:
 
 1. On the phone, open the Releases page and download the `drive-monitor-vX.Y.Z.apk` asset.
-2. Allow your browser (or file manager) to install apps: **Settings → Apps → Special app access → Install unknown apps** → pick the app you used to download → enable *Allow from this source*.
+2. Allow your browser (or file manager) to install apps: **the exact path varies by phone — it's typically under Settings → Apps** → pick the app you used to download → enable *Allow from this source*.
 3. Open the downloaded APK and tap **Install**. You may need to dismiss a Play Protect warning the first time — the app is signed by the project maintainer, not Google.
 4. Launch Drive Monitor and grant the notification permission when prompted.
 

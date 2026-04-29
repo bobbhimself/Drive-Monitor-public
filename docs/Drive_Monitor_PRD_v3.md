@@ -1261,8 +1261,8 @@ The initial values were chosen using the following logic:
 - Caution threshold was set to 0.28 G to provide early warning before alert severity.
 
 ### 10.7 Known Limitations of Current Thresholds
-- They are not yet confirmed against actual Emkay fleet rules.
-- They are not yet confirmed against actual Geotab settings for the specific vehicle.
+- They are not yet confirmed against actual fleet rules.
+- They are not yet confirmed against actual tracker settings for the specific vehicle.
 - They do not yet account for phone mount orientation differences (mitigated by fixed-mount requirement).
 - They do not yet account for full-load versus unloaded vehicle behavior.
 - They may produce false positives until smoothing, cooldowns, and real-world testing are completed.
@@ -1277,8 +1277,8 @@ Use the following structure whenever thresholds or processing constants are revi
 - Reason for change:
 - Evidence source:
   - real-world test result
-  - comparison to Emkay behavior
-  - comparison to Geotab behavior
+  - comparison to fleet behavior
+  - comparison to tracker behavior
   - false positive reduction
   - missed-event correction
   - other
